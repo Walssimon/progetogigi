@@ -1,0 +1,11 @@
+C:\Users\Laboratorio-Info\source\repos\CalculoGiGi\CalculoGiGi\bin\Debug\CalculoGiGi.exe.config
+C:\Users\Laboratorio-Info\source\repos\CalculoGiGi\CalculoGiGi\bin\Debug\CalculoGiGi.exe
+C:\Users\Laboratorio-Info\source\repos\CalculoGiGi\CalculoGiGi\bin\Debug\CalculoGiGi.pdb
+C:\Users\Laboratorio-Info\source\repos\CalculoGiGi\CalculoGiGi\obj\Debug\CalculoGiGi.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\source\repos\CalculoGiGi\CalculoGiGi\obj\Debug\CalculoGiGi.Form1.resources
+C:\Users\Laboratorio-Info\source\repos\CalculoGiGi\CalculoGiGi\obj\Debug\CalculoGiGi.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\CalculoGiGi\CalculoGiGi\obj\Debug\CalculoGiGi.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\CalculoGiGi\CalculoGiGi\obj\Debug\CalculoGiGi.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\CalculoGiGi\CalculoGiGi\obj\Debug\CalculoGiGi.exe
+C:\Users\Laboratorio-Info\source\repos\CalculoGiGi\CalculoGiGi\obj\Debug\CalculoGiGi.pdb
+C:\Users\Laboratorio-Info\source\repos\CalculoGiGi\CalculoGiGi\obj\Debug\CalculoGiGi.Form2.resources

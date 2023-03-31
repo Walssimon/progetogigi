@@ -1,0 +1,9 @@
+C:\Users\Laboratorio-Info\source\repos\exerciciocrecer\exerciciocrecer\bin\Debug\exerciciocrecer.exe.config
+C:\Users\Laboratorio-Info\source\repos\exerciciocrecer\exerciciocrecer\bin\Debug\exerciciocrecer.exe
+C:\Users\Laboratorio-Info\source\repos\exerciciocrecer\exerciciocrecer\bin\Debug\exerciciocrecer.pdb
+C:\Users\Laboratorio-Info\source\repos\exerciciocrecer\exerciciocrecer\obj\Debug\exerciciocrecer.Form1.resources
+C:\Users\Laboratorio-Info\source\repos\exerciciocrecer\exerciciocrecer\obj\Debug\exerciciocrecer.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\exerciciocrecer\exerciciocrecer\obj\Debug\exerciciocrecer.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\exerciciocrecer\exerciciocrecer\obj\Debug\exerciciocrecer.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\exerciciocrecer\exerciciocrecer\obj\Debug\exerciciocrecer.exe
+C:\Users\Laboratorio-Info\source\repos\exerciciocrecer\exerciciocrecer\obj\Debug\exerciciocrecer.pdb
